@@ -1,7 +1,7 @@
 ## Hi, welcome to my lab!
  
 I'm Fleur, an enthusiastic Software Developer from France <br> <br>
-Go check out my web applications! 🤗 <br><br>
+Go check out my web applications! 🤗 <br>
  
 ### [Portfolio](www.fleurdalle.com)
 ### [LinkedIn]()
