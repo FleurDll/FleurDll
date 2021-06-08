@@ -8,7 +8,7 @@ Go check out my web applications! 🤗 <br>
 ### [Email](mailto:fleur.dalle@hotmail.com)
 
 <p align="center">
- <a href="https://www.fleurdalle.com/">
+ <a href="https://www.fleurdalle.com/" target="_blank">
   <img src="https://user-images.githubusercontent.com/75179031/121142757-9c408880-c83c-11eb-95ba-45e2fe626e30.png" width="650" height="400">
   <a/>
 </p>
