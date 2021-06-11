@@ -2,7 +2,7 @@
  
 I'm Fleur, an enthusiastic Full Stack Developer from France <br> <br>
 Go check out my web applications! 🤗 <br>
-### [LinkedIn]()
+### [LinkedIn](https://www.linkedin.com/in/fleur-dalle-21b577213/)
 ### [Email](mailto:fleur.dalle@hotmail.com)
 
 ### [Portfolio](https://www.fleurdalle.com/) :
